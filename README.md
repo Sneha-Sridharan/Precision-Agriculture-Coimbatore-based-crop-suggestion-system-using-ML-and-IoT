@@ -6,7 +6,7 @@
 
 # Methodology Used
 
-- Ensemble model with majority voting technique, using a combination of algorithm namely Random Forest, kNN, and Decision Tree.
+- Ensemble model with majority voting technique, using a combination of algorithm namely Random Forest, kNN, and Decision Tree with 89.27% accuracy.
 
 # Software Used
 
