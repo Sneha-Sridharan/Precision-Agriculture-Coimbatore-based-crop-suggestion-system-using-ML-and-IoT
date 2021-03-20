@@ -10,4 +10,5 @@
 
 # Software Used
 
-- Python, Jupyter Notebook
+- Python
+- Jupyter Notebook
