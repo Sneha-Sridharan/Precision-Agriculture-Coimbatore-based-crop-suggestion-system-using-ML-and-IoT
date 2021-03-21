@@ -1,0 +1,24 @@
+Synonyms of recommendation:
+guidance
+suggestion
+proposal
+
+Terms to use:
+Precision agriculture
+Smart farming and terms related to that
+IoT (for sure)
+Coimbatore (for sure)
+
+Crop Recommendation System for precision agriculture already exists
+
+Work now for report and all:
+
+IoT ideas, Names, ML maybe another module ideas - everyone
+Ensemble (techniques), System Architecture (rough) - Sneha
+Introduction (Abstract/Problem Statement) - Gayathri
+Models -
+Random Forest - Poovizhi and Shiva
+Decision Tree - Praja
+kNN - Poovizhi and Shiva
+Weekly report - Tomorrow....
+Cut off for report work - Wednesday/Thursday before CA test is better but max by Sunday
