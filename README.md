@@ -8,7 +8,7 @@
 
 - Ensemble model with majority voting technique, using a combination of algorithm namely Random Forest, kNN, and Decision Tree with 89.27% accuracy.
 
-# Hardware Components Used
+# Hardware Used
 
 - Arduino UNO Board
 - pH Sensor
