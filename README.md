@@ -20,6 +20,8 @@
 - Jupyter Notebook
 - Arduino IDE
 
+Refer to Team 9 - Final Report to see our final project report
+
 # Circuit Connections
 
 ![WhatsApp Image 2021-04-11 at 3 33 35 PM](https://user-images.githubusercontent.com/66522297/114926028-78b91d00-9e4d-11eb-8363-b2afe852d3fc.jpeg)
